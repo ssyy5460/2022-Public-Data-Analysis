@@ -5,7 +5,7 @@
 - 팀원 : 이수현 이승현 이하늘 임소연 전지우 최지원
 - 기간 : 2022.07.27~2022.08.19
 - 분석도구 : Python, R, Q-gis
-- 분석기법 : K-means, Score-Model, Scailing
+- 분석기법 : K-means, Score-Model, Scaling
 
 
 ### 분석 개요 
